@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kafanski-kviz-admin/static/css/main.fb961db8.css",
+    "main.js": "/Kafanski-kviz-admin/static/js/main.d68cd02e.js",
+    "static/js/488.b8fe7c98.chunk.js": "/Kafanski-kviz-admin/static/js/488.b8fe7c98.chunk.js",
+    "static/media/background.jpg": "/Kafanski-kviz-admin/static/media/background.fd53684887dcaddc4027.jpg",
+    "index.html": "/Kafanski-kviz-admin/index.html",
+    "main.fb961db8.css.map": "/Kafanski-kviz-admin/static/css/main.fb961db8.css.map",
+    "main.d68cd02e.js.map": "/Kafanski-kviz-admin/static/js/main.d68cd02e.js.map",
+    "488.b8fe7c98.chunk.js.map": "/Kafanski-kviz-admin/static/js/488.b8fe7c98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb961db8.css",
+    "static/js/main.d68cd02e.js"
+  ]
+}
