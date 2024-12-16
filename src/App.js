@@ -1,14 +1,13 @@
-// App.js
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import Login from './Login';
-import PrivateRoute from './PrivateRoute';
-import AdminPanel from './AdminPanel';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import Login from "./Login";
+import PrivateRoute from "./PrivateRoute";
+import AdminPanel from "./AdminPanel";
+import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/KafanskiKvizAdmin">
       <Routes>
         {/* Početna stranica, preusmeravanje na login */}
         <Route path="/" element={<Navigate to="/login" />} />

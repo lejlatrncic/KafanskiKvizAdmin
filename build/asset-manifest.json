@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb961db8.css",
-    "main.js": "/static/js/main.7565f175.js",
-    "static/js/488.b8fe7c98.chunk.js": "/static/js/488.b8fe7c98.chunk.js",
-    "static/media/background.jpg": "/static/media/background.fd53684887dcaddc4027.jpg",
-    "index.html": "/index.html",
-    "main.fb961db8.css.map": "/static/css/main.fb961db8.css.map",
-    "main.7565f175.js.map": "/static/js/main.7565f175.js.map",
-    "488.b8fe7c98.chunk.js.map": "/static/js/488.b8fe7c98.chunk.js.map"
+    "main.css": "/KafanskiKvizAdmin/static/css/main.fb961db8.css",
+    "main.js": "/KafanskiKvizAdmin/static/js/main.75da5fbf.js",
+    "static/js/488.b8fe7c98.chunk.js": "/KafanskiKvizAdmin/static/js/488.b8fe7c98.chunk.js",
+    "static/media/background.jpg": "/KafanskiKvizAdmin/static/media/background.fd53684887dcaddc4027.jpg",
+    "index.html": "/KafanskiKvizAdmin/index.html",
+    "main.fb961db8.css.map": "/KafanskiKvizAdmin/static/css/main.fb961db8.css.map",
+    "main.75da5fbf.js.map": "/KafanskiKvizAdmin/static/js/main.75da5fbf.js.map",
+    "488.b8fe7c98.chunk.js.map": "/KafanskiKvizAdmin/static/js/488.b8fe7c98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb961db8.css",
-    "static/js/main.7565f175.js"
+    "static/js/main.75da5fbf.js"
   ]
 }
