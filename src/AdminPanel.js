@@ -97,6 +97,7 @@ const AdminPanel = () => {
       <Table striped bordered hover responsive>
         <thead>
           <tr>
+            <th>#</th> 
             <th>Pjevač</th>
             <th>Pjesma</th>
             <th>Pitanje</th>
@@ -106,8 +107,9 @@ const AdminPanel = () => {
           </tr>
         </thead>
         <tbody>
-          {filteredSongs.map((song) => (
-            <tr key={song.id}>
+        {filteredSongs.map((song, index) => (
+      <tr key={song.id}>
+        <td>{index + 1}</td> {/* Dodano za redni broj */}
               <td>{song.pjevač}</td>
               <td>{song.pjesma}</td>
               <td>{song.pitanje}</td>
